@@ -94,5 +94,5 @@ async def zod(ctx):
     await ctx.send(response)
 
 
-bot.run('OTUwMzEyODk3NzU2NjcyMDQx.YiXF2g.66yUZ4HlBV7WjxiY5tIQep83wiA')
+bot.run('')
 
